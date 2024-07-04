@@ -1,0 +1,18 @@
+.entertainment
+{
+    font-size:90px;
+    color:red;
+    text-align:center;
+    margin-top: 120px;
+}
+
+.main
+{
+    font-size:20px;
+    color:black;
+    margin-top:15px;
+}
+.card-body
+{
+    border:1px solid black;
+}
